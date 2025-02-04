@@ -1,4 +1,4 @@
-# 💹 HTML Crypto Currency Chart Snippets 💹
+# 💹Crypto Currency Chart Snippets 💹
 Cryptocurrencies with the TradingView API 💹
 
 ![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
